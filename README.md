@@ -4,7 +4,7 @@ Performance Testing Repo
                                                               API Script Approach & Execution 
 I have used open source JMeter tool for script design and for execution purpose and I have followed below steps.
 Tool Setup: -
-	As its open source we can download it from any web browser and use it – we just need Java as prerequisite and I already had it in my system.
+As its open source we can download it from any web browser and use it – we just need Java as prerequisite and I already had it in my system.
 Test Plan Setup: -
 Added via templates > recording > then all the required thread group, header manager and listeners will be added automatically no need to add all components separately
 				OR
